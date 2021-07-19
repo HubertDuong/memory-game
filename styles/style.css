@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+}
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    height: 436px;
+    width: 364px;
+    margin: auto;
+}
